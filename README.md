@@ -1,2 +1,3 @@
 # apns_push
-Origin apple push service
+
+ios send notification to app
